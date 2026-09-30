@@ -1270,6 +1270,7 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Desktop & Mobile AI Apps
 
+- [InvoiceFlowAI](https://github.com/EthanYoQ/Invoice-Downloader) - Open-source Windows/macOS desktop app that collects emailed PDF/OFD/XML invoices, uses OCR with human review, and exports Excel summaries; optional model providers support extraction. ![GitHub stars](https://img.shields.io/github/stars/EthanYoQ/Invoice-Downloader?style=social)
 - [AI Language Partner](https://github.com/duct-tape2/ai-language-partner) - Local-first Expo and FastAPI Japanese practice app for Korean speakers that uses Whisper-compatible STT, local TTS, and embedding-based dialogue matching without a runtime LLM. ![GitHub stars](https://img.shields.io/github/stars/duct-tape2/ai-language-partner?style=social)
 - [Jan](https://github.com/janhq/jan) - Local-first AI app framework. ![GitHub stars](https://img.shields.io/github/stars/janhq/jan?style=social)
 - [Cherry Studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social)
